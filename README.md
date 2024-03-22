@@ -5,3 +5,6 @@ Ispartaya bağlı devlet ve il yol yollarını tanıtan(21 adet kontrol  kesim y
 <br/><br/>
 [2-> Kullanım Senaryosu](https://github.com/kemalkasli/IspartaKGM/blob/main/Kullan%C4%B1m%20Senaryosu.pdf)
 <br/><br/>
+[3-> Kullanıcı Senaryosu Diyagramı (pdf)](https://github.com/kemalkasli/IspartaKGM/blob/main/Kullan%C4%B1c%C4%B1%20Senaryosu%20Diyagram%C4%B1.pdf)
+<br/><br/>
+![3-> Kullanıcı Senaryosu Diyagramı (jpeg)](https://github.com/kemalkasli/IspartaKGM/blob/main/Kullan%C4%B1c%C4%B1%20Senaryosu%20Diyagram%C4%B1.jpg)
