@@ -3,3 +3,5 @@ Ispartaya bağlı devlet ve il yol yollarını tanıtan(21 adet kontrol  kesim y
 <br/><br/>
 [1-> Yazılım Gereksinim Analizi](https://github.com/kemalkasli/IspartaKGM/blob/main/Yaz%C4%B1l%C4%B1m%20Gereksinim%20Analizi%20-%202221032073%20-%20Kemal%20KA%C5%9ELI%20(08.03.2024).pdf)
 <br/><br/>
+[2-> Kullanım Senaryosu](https://github.com/kemalkasli/IspartaKGM/blob/main/Kullan%C4%B1m%20Senaryosu.pdf)
+<br/><br/>
