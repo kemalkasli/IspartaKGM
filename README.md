@@ -14,3 +14,10 @@ Ispartaya bağlı devlet ve il yol yollarını tanıtan(21 adet kontrol  kesim y
 ![4-> Veri Tabanı Şeması (png)](https://github.com/kemalkasli/IspartaKGM/blob/main/Veri%20Taban%C4%B1%20Diyagram%C4%B1.png)
 <br/><br/>
 [5-> Tasarım Sayfası Kullanılan FrontEnd Çatısı = React JS (MERN)](https://github.com/kemalkasli/IspartaKGM/blob/main/Yaz%C4%B1l%C4%B1m%20Gereksinim%20Analizi%20-%202221032073%20-%20Kemal%20KA%C5%9ELI%20(08.03.2024).pdf)
+5.1) Terminal ekranından cd komutuyla client klasörüne içine girilir.
+5.2) Client klasörünün içirisinde iken npm start komutuyla node js başlatılır.
+5.3) [eslint] Plugin "react" was conflicted between "package.json » eslint-config-react-app »
+hatası alınır ise package.json dosyası açılıp ctrl+s ile kaydet işlemi yapılınca normal şekilde başlatılıyor.
+5.4) Yeni Terminal ekranından cd komutuyla server klasörüne içine girilir.
+5.5) Server klasörünün içirisinde iken npm start komutuyla node js başlatılır.
+5.6) Tarayıcından http://localhost:3000/ ile ana sayfaya ulaşılır.
