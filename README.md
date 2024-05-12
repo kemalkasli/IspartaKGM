@@ -13,7 +13,7 @@ Ispartaya bağlı devlet ve il yol yollarını tanıtan(21 adet kontrol  kesim y
 <br/><br/>
 ![4-> Veri Tabanı Şeması (png)](https://github.com/kemalkasli/IspartaKGM/blob/main/Veri%20Taban%C4%B1%20Diyagram%C4%B1.png)
 <br/><br/>
-**VİZE SONRASI ÇALIŞMALAR <br/><br/>
+## VİZE SONRASI ÇALIŞMALAR <br/><br/>
 [5-> Tasarım Sayfası Kullanılan FrontEnd Çatısı = React JS (MERN)](https://github.com/kemalkasli/IspartaKGM/blob/main/Yaz%C4%B1l%C4%B1m%20Gereksinim%20Analizi%20-%202221032073%20-%20Kemal%20KA%C5%9ELI%20(08.03.2024).pdf)<br/>
 5.1) Terminal ekranından cd komutuyla client klasörüne içine girilir.<br/>
 5.2) Client klasörünün içirisinde iken npm start komutuyla node js başlatılır.<br/>
