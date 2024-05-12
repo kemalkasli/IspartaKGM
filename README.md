@@ -16,7 +16,10 @@ Ispartaya bağlı devlet ve il yol yollarını tanıtan(21 adet kontrol  kesim y
 ## VİZE SONRASI ÇALIŞMALAR <br/><br/>
 Tasarım Sayfası Kullanılan FrontEnd Çatısı = React JS (MERN)
 Uygulama Client ve Server olarak iki farklı kısım klasörde oluşturdum.  Her iki klasörüde node_modules hariç iki ayrı repoya push işlemi yaptım. <br/>
-[5-> Tasarım Sayfası Kullanılan FrontEnd Çatısı = React JS (MERN)](https://github.com/kemalkasli/IspartaKGM/blob/main/Yaz%C4%B1l%C4%B1m%20Gereksinim%20Analizi%20-%202221032073%20-%20Kemal%20KA%C5%9ELI%20(08.03.2024).pdf)<br/>
+[Server klasörünün github repo linki] (https://github.com/kemalkasli/IspartaKGM2)<br/>
+[Client klasörünün github repo linki] (https://github.com/kemalkasli/IspartaKGM3)<br/>
+Ayrıca iki klasörün node_modules klasörleri dahil şekilde sıkıştırıp github repo boyutunu aştığı için drive a yükledim. )<br/>
+[5-> Uygulama drive linki ](https://drive.google.com/drive/folders/1iEWgud2vp9ba-QpB4jMtH32ihJdgG4sB).pdf)<br/>
 5.1) Terminal ekranından cd komutuyla client klasörüne içine girilir.<br/>
 5.2) Client klasörünün içirisinde iken npm start komutuyla node js başlatılır.<br/>
 5.3) [eslint] Plugin "react" was conflicted between "package.json » eslint-config-react-app »
