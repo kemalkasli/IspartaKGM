@@ -35,5 +35,25 @@ Bu şekilde çalıştıramayınca Netlify hesabı açık aynı şekilde yükleme
 [Server klasörünün netlify linki](https://thriving-kashata-b41564.netlify.app/)<br/>
 [Client klasörünün netlify linki](https://ispartakgm.netlify.app/)<br/>
 Her iki sitede de deploy aşamasında hatalar alıp yayınlayamadım.<br/>
+<br/><br/>
+
+Uygulamayı tekrar lokalde çalışacak şekilde php ve sqllite kullanarak yeniledim. <br/>
+Bu aşamanın da dosyaları github repo boyutundan fazla olduğu için drive yükledim. <br/>
+[6-> php +sqllite Uygulamanın drive linki ](https://drive.google.com/drive/folders/1OUjiFWOUrhmDzEm3WpqhiSFULniW_HgG)<br/>
+6.1) Sıkıştırılmış klasörü çıkardım (UwAmp)<br/>
+6.2) UwAmp.exe dosyasını çalıştırınca  php sunucu çalışıyor.<br/>
+6.3) Tarayıcıdan http://localhost/ ile anasayfaya ulaşabiliyoruz..<br/>
+6.4) Anasayfadan devlet ve il yollarından istediğimize göre linke ulaşabiliyoruz. [örnek link](http://localhost/32006.php).<br/>
+6.5) Yine anasayfadan  Yol boyu tesisler listesine ve etüt raporlarına  ulaşabiliyoruz  [örnek link](http://localhost/tesisler.php).<br/>
+
+
+
+
+
+
+
+
+
+
 
 
