@@ -39,7 +39,7 @@ Her iki sitede de deploy aşamasında hatalar alıp yayınlayamadım.<br/>
 
 Uygulamayı tekrar lokalde çalışacak şekilde php ve sqllite kullanarak yeniledim. <br/>
 Bu aşamanın da dosyaları github repo boyutundan fazla olduğu için drive yükledim. <br/>
-[6-> php +sqllite Uygulamanın drive linki ](https://drive.google.com/drive/folders/1OUjiFWOUrhmDzEm3WpqhiSFULniW_HgG)<br/>
+[6-> php +sqllite Uygulamanın drive linki](https://drive.google.com/drive/folders/1OUjiFWOUrhmDzEm3WpqhiSFULniW_HgG)<br/>
 6.1) Sıkıştırılmış klasörü çıkardım (UwAmp)<br/>
 6.2) UwAmp.exe dosyasını çalıştırınca  php sunucu çalışıyor.<br/>
 6.3) Tarayıcıdan http://localhost/ ile anasayfaya ulaşabiliyoruz..<br/>
