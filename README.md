@@ -29,7 +29,11 @@ hatası alınır ise package.json dosyası açılıp ctrl+s ile kaydet işlemi y
 5.6) Tarayıcından http://localhost:3000/ ile ana sayfaya ulaşılır.<br/><br/>
 Projeyi local de yukarıdaki şekilde çalıştırmayı başarabildim. Canlıya almak için aşağıdaki adımları izledim. <br/>
 Vercel hesabı açıp her iki klasörü ayrı ayrı uzak sunucuya aktarmayı denedim.<bt/>
-[Server klasörünün vercel linki] (https://ispartakgm2.vercel.app/)<br/>
-[Client klasörünün vercel linki] (https://ispartakgm.vercel.app/)<br/>
+[Server klasörünün vercel linki](https://ispartakgm2.vercel.app/)<br/>
+[Client klasörünün vercel linki](https://ispartakgm.vercel.app/)<br/>
+Bu şekilde çalıştıramayınca Netlify hesabı açık aynı şekilde yüklemeyi denedim.
+[Server klasörünün netlify linki](https://thriving-kashata-b41564.netlify.app/)<br/>
+[Client klasörünün netlify linki](https://ispartakgm.netlify.app/)<br/>
+Her iki sitede de deploy aşamasında hatalar alıp yayınlayamadım.<br/>
 
 
