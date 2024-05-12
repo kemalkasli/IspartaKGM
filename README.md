@@ -27,3 +27,9 @@ hatası alınır ise package.json dosyası açılıp ctrl+s ile kaydet işlemi y
 5.4) Yeni Terminal ekranından cd komutuyla server klasörüne içine girilir.<br/>
 5.5) Server klasörünün içirisinde iken npm start komutuyla node js başlatılır.<br/>
 5.6) Tarayıcından http://localhost:3000/ ile ana sayfaya ulaşılır.<br/><br/>
+Projeyi local de yukarıdaki şekilde çalıştırmayı başarabildim. Canlıya almak için aşağıdaki adımları izledim. <br/>
+Vercel hesabı açıp her iki klasörü ayrı ayrı uzak sunucuya aktarmayı denedim.<bt/>
+[Server klasörünün vercel linki] (https://ispartakgm2.vercel.app/)<br/>
+[Client klasörünün vercel linki] (https://ispartakgm.vercel.app/)<br/>
+
+
