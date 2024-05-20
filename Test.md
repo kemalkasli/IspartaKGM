@@ -2,7 +2,7 @@
 ###Test Aşaması Çalışmaları <br/>
 Gereksinim Listesinde  yer alan aşağıdaki 10 gereksinim için Unit Test ile kontroller gerçekleştirdim.  Testlere ait videolar domain adresi üzerinden gerçekleştirildi ve aşağıdaki linklerde eklendi (repodan)<br/>
 
-Kemal KAŞLI Test<br/>
+Kemal KAŞLI Test<br/> <br/> <br/>
 1.	Kritik Noktaların Listelenmesi<br/>
 2.	Kritik Noktaların Kontrol Kesime göre Listelenmesi<br/>
 3.	Yeni Kritik Nokta Eklenmesi<br/>
