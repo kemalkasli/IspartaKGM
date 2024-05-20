@@ -52,8 +52,10 @@ Uygulama Client ve Server olarak iki farklı kısım klasörde oluşturdum.  Her
 [Back-End.md Dosyası](https://github.com/kemalkasli/IspartaKGM/blob/main/Back-End.md)<br/>
 
 ### 8-) Kontrol ve Test <br/>
-[Back-End.md Dosyası](https://github.com/kemalkasli/IspartaKGM/blob/main/Test.md)<br/>
+[Test.md Dosyası](https://github.com/kemalkasli/IspartaKGM/blob/main/Test.md)<br/>
 
+### 9-) Geliştirici ve Kullanıcı Dokümantasyonları<br/>
+[Test.md Dosyası](https://github.com/kemalkasli/IspartaKGM/blob/main/Test.md)<br/>
 
 Projeyi local de yukarıdaki şekilde çalıştırmayı başarabildim. Canlıya almak için aşağıdaki adımları izledim. <br/>
 Vercel hesabı açıp her iki klasörü ayrı ayrı uzak sunucuya aktarmayı denedim.<br/>
