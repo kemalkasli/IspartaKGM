@@ -58,7 +58,7 @@ Bu aşamada da Backend kısmı için IspartaKGMServer frontEnd kısmı içinde I
 [Test.md Dosyası](https://github.com/kemalkasli/IspartaKGM/blob/main/Test.md)<br/>
 
 ### 9-) Geliştirici ve Kullanıcı Dokümantasyonları<br/>
-[Test.md Dosyası](https://github.com/kemalkasli/IspartaKGM/blob/main/Test.md)<br/>
+[Geliştirici ve Kullanıcı Dökümanları](https://app.gitbook.com/o/5dpfVM0tm9jja7OJJMMF/s/wICRG8ZgP9xj8oQr1tpe/)<br/>
 
 
 
