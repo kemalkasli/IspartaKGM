@@ -39,6 +39,12 @@ C-) Tarayıcıdan http://localhost/ ile anasayfaya ulaşabiliyoruz..<br/>
 D-) Anasayfadan devlet ve il yollarından istediğimize göre linke ulaşabiliyoruz. [örnek link](http://localhost/32006.php).<br/>
 E-) Yine anasayfadan  Yol boyu tesisler listesine ve etüt raporlarına  ulaşabiliyoruz  [örnek link](http://localhost/tesisler.php).<br/>
 
+
+### 6-) Front-End Tasarımı <br/>
+Uygulama Client ve Server olarak iki farklı kısım klasörde oluşturdum.  Her iki klasörüde node_modules hariç iki ayrı repoya push işlemi yaptım. <br/>
+[Server klasörünün github repo linki] (https://github.com/kemalkasli/IspartaKGM2)<br/>
+[Client klasörünün github repo linki] (https://github.com/kemalkasli/IspartaKGM3)<br/>
+
 Projeyi local de yukarıdaki şekilde çalıştırmayı başarabildim. Canlıya almak için aşağıdaki adımları izledim. <br/>
 Vercel hesabı açıp her iki klasörü ayrı ayrı uzak sunucuya aktarmayı denedim.<br/>
 [Server klasörünün vercel linki](https://ispartakgm2.vercel.app/)<br/>
