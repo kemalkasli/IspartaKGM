@@ -60,14 +60,9 @@ Bu aşamada da Backend kısmı için IspartaKGMServer frontEnd kısmı içinde I
 ### 9-) Geliştirici ve Kullanıcı Dokümantasyonları<br/>
 [Test.md Dosyası](https://github.com/kemalkasli/IspartaKGM/blob/main/Test.md)<br/>
 
-Projeyi local de yukarıdaki şekilde çalıştırmayı başarabildim. Canlıya almak için aşağıdaki adımları izledim. <br/>
-Vercel hesabı açıp her iki klasörü ayrı ayrı uzak sunucuya aktarmayı denedim.<br/>
-[Server klasörünün vercel linki](https://ispartakgm2.vercel.app/)<br/>
-[Client klasörünün vercel linki](https://ispartakgm.vercel.app/)<br/>
-Bu şekilde çalıştıramayınca Netlify hesabı açık aynı şekilde yüklemeyi denedim.<br/>
-[Server klasörünün netlify linki](https://thriving-kashata-b41564.netlify.app/)<br/>
-[Client klasörünün netlify linki](https://ispartakgm.netlify.app/)<br/>
-Her iki sitede de deploy aşamasında hatalar alıp yayınlayamadım.<br/>
+
+
+
 <br/><br/>
 
 
