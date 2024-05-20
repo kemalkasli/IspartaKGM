@@ -1,5 +1,4 @@
-
-###Test Aşaması Çalışmaları <br/>
+### Test Çalışmaları <br/>
 Gereksinim Listesinde  yer alan aşağıdaki 10 gereksinim için Unit Test ile kontroller gerçekleştirdim.  Testlere ait videolar domain adresi üzerinden gerçekleştirildi ve aşağıdaki linklerde eklendi (repodan)<br/>
 
 Kemal KAŞLI Test<br/> <br/> <br/>
