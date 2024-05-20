@@ -60,9 +60,9 @@ Bu aşamada da Backend kısmı için IspartaKGMServer frontEnd kısmı içinde I
 ### 9-) Geliştirici ve Kullanıcı Dokümantasyonları<br/>
 [Geliştirici ve Kullanıcı Dökümanları](https://app.gitbook.com/o/5dpfVM0tm9jja7OJJMMF/s/wICRG8ZgP9xj8oQr1tpe/)<br/>
 
+### Not: <br/>
 
-
-
+Uygulama Adresi: [abc.com](https://ispartakgm.onrender.com/)
 <br/><br/>
 
 
