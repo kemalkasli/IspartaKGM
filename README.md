@@ -18,15 +18,27 @@ Tasarım Sayfası Kullanılan FrontEnd Çatısı = React JS (MERN)
 Uygulama Client ve Server olarak iki farklı kısım klasörde oluşturdum.  Her iki klasörüde node_modules hariç iki ayrı repoya push işlemi yaptım. <br/>
 [Server klasörünün github repo linki] (https://github.com/kemalkasli/IspartaKGM2)<br/>
 [Client klasörünün github repo linki] (https://github.com/kemalkasli/IspartaKGM3)<br/>
+
+### Local de Çalışması <br/>
 Ayrıca iki klasörün node_modules klasörleri dahil şekilde sıkıştırıp github repo boyutunu aştığı için drive a yükledim. )<br/>
-[5-> Uygulama drive linki ](https://drive.google.com/drive/folders/1iEWgud2vp9ba-QpB4jMtH32ihJdgG4sB)<br/>
-5.1) Terminal ekranından cd komutuyla client klasörüne içine girilir.<br/>
-5.2) Client klasörünün içirisinde iken npm start komutuyla node js başlatılır.<br/>
-5.3) [eslint] Plugin "react" was conflicted between "package.json » eslint-config-react-app »
+[Uygulamanın drive linki ](https://drive.google.com/drive/folders/1iEWgud2vp9ba-QpB4jMtH32ihJdgG4sB)<br/>
+A-) Terminal ekranından cd komutuyla client klasörüne içine girilir.<br/>
+B-) Client klasörünün içirisinde iken npm start komutuyla node js başlatılır.<br/>
+C-) [eslint] Plugin "react" was conflicted between "package.json » eslint-config-react-app »
 hatası alınır ise package.json dosyası açılıp ctrl+s ile kaydet işlemi yapılınca normal şekilde başlatılıyor.<br/>
-5.4) Yeni Terminal ekranından cd komutuyla server klasörüne içine girilir.<br/>
-5.5) Server klasörünün içirisinde iken npm start komutuyla node js başlatılır.<br/>
-5.6) Tarayıcından http://localhost:3000/ ile ana sayfaya ulaşılır.<br/><br/>
+D-) Yeni Terminal ekranından cd komutuyla server klasörüne içine girilir.<br/>
+E-) Server klasörünün içirisinde iken npm start komutuyla node js başlatılır.<br/>
+F-) Tarayıcından http://localhost:3000/ ile ana sayfaya ulaşılır.<br/><br/>
+
+Ayrıca Uygulamayı tekrar lokalde çalışacak şekilde php ve sqllite kullanarak yeniledim. <br/>
+Bu aşamanın da dosyaları github repo boyutundan fazla olduğu için drive yükledim. <br/>
+[php +sqllite Uygulamanın drive linki](https://drive.google.com/drive/folders/1OUjiFWOUrhmDzEm3WpqhiSFULniW_HgG)<br/>
+A-) Sıkıştırılmış klasörü çıkardım (UwAmp)<br/>
+B-) UwAmp.exe dosyasını çalıştırınca  php sunucu çalışıyor.<br/>
+C-) Tarayıcıdan http://localhost/ ile anasayfaya ulaşabiliyoruz..<br/>
+D-) Anasayfadan devlet ve il yollarından istediğimize göre linke ulaşabiliyoruz. [örnek link](http://localhost/32006.php).<br/>
+E-) Yine anasayfadan  Yol boyu tesisler listesine ve etüt raporlarına  ulaşabiliyoruz  [örnek link](http://localhost/tesisler.php).<br/>
+
 Projeyi local de yukarıdaki şekilde çalıştırmayı başarabildim. Canlıya almak için aşağıdaki adımları izledim. <br/>
 Vercel hesabı açıp her iki klasörü ayrı ayrı uzak sunucuya aktarmayı denedim.<br/>
 [Server klasörünün vercel linki](https://ispartakgm2.vercel.app/)<br/>
@@ -37,14 +49,7 @@ Bu şekilde çalıştıramayınca Netlify hesabı açık aynı şekilde yükleme
 Her iki sitede de deploy aşamasında hatalar alıp yayınlayamadım.<br/>
 <br/><br/>
 
-Uygulamayı tekrar lokalde çalışacak şekilde php ve sqllite kullanarak yeniledim. <br/>
-Bu aşamanın da dosyaları github repo boyutundan fazla olduğu için drive yükledim. <br/>
-[6-> php +sqllite Uygulamanın drive linki](https://drive.google.com/drive/folders/1OUjiFWOUrhmDzEm3WpqhiSFULniW_HgG)<br/>
-6.1) Sıkıştırılmış klasörü çıkardım (UwAmp)<br/>
-6.2) UwAmp.exe dosyasını çalıştırınca  php sunucu çalışıyor.<br/>
-6.3) Tarayıcıdan http://localhost/ ile anasayfaya ulaşabiliyoruz..<br/>
-6.4) Anasayfadan devlet ve il yollarından istediğimize göre linke ulaşabiliyoruz. [örnek link](http://localhost/32006.php).<br/>
-6.5) Yine anasayfadan  Yol boyu tesisler listesine ve etüt raporlarına  ulaşabiliyoruz  [örnek link](http://localhost/tesisler.php).<br/>
+
 
 
 
