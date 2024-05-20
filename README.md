@@ -45,6 +45,8 @@ Uygulama Client ve Server olarak iki farklı kısım klasörde oluşturdum.  Her
 [Server klasörünün github repo linki] (https://github.com/kemalkasli/IspartaKGM2)<br/>
 [Client klasörünün github repo linki] (https://github.com/kemalkasli/IspartaKGM3)<br/>
 
+[FronEnd.md Dosyası](https://github.com/kemalkasli/IspartaKGM/blob/main/Front-End.md)<br/>
+
 Projeyi local de yukarıdaki şekilde çalıştırmayı başarabildim. Canlıya almak için aşağıdaki adımları izledim. <br/>
 Vercel hesabı açıp her iki klasörü ayrı ayrı uzak sunucuya aktarmayı denedim.<br/>
 [Server klasörünün vercel linki](https://ispartakgm2.vercel.app/)<br/>
