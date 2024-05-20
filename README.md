@@ -47,9 +47,12 @@ Uygulama Client ve Server olarak iki farklı kısım klasörde oluşturdum.  Her
 
 [Front-End.md Dosyası](https://github.com/kemalkasli/IspartaKGM/blob/main/Front-End.md)<br/>
 
-
 ### 7-) Back-End Tasarımı <br/>
 [Back-End.md Dosyası](https://github.com/kemalkasli/IspartaKGM/blob/main/Back-End.md)<br/>
+
+Front End ve Back End tasarımlarını localde çalıştırdıktan sonra yayınlamak için Render.com  alan adını kullandım. <br/>
+Bu aşamada da Backend kısmı için IspartaKGMServer frontEnd kısmı içinde Ispartakgm  isimli iki adet web service kullandım. <br/>
+[Render.com Dashboard Sayfası](https://github.com/kemalkasli/IspartaKGM/blob/main/render.com.dashboard.jpg)<br/>
 
 ### 8-) Kontrol ve Test <br/>
 [Test.md Dosyası](https://github.com/kemalkasli/IspartaKGM/blob/main/Test.md)<br/>
