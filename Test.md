@@ -17,6 +17,3 @@ Kemal KAŞLI Test<br/> <br/> <br/>
 10.	Ticari Tesislerin Silinmesi<br/>
 [9,10 Gereksinimlere ait Test Videosu Linki](https://github.com/kemalkasli/IspartaKGM/blob/main/unit%20test%209%2B10.mp4)<br/><br/>
  
-
-Test Videosu Linki
-
