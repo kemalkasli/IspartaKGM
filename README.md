@@ -65,8 +65,10 @@ Bu aşamada da Backend kısmı için IspartaKGMServer frontEnd kısmı içinde I
 Uygulama Adresi: [https://ispartakgm.onrender.com](https://ispartakgm.onrender.com/)<br/>
 ### Not: <br/>
 Hocam projeyi yayınladıktan sonra unit testler de göründüğü gibi çalıştığını tespit etttim<br/>
-Ancak farklı zamanlarda sayfayı denediğimde bazen normal görüntülerken  bazen de 503 bad gateway hatasını almaktayım.<br/>
-Render.com dan free domain kullanmamdan kaynaklı veya yoğunluk kaynaklı olduğunu düşünüyorum.<br/>
+Ancak farklı zamanlarda sayfayı denediğimde  çoğunlukla normal görüntülerken  bazen de CSS lerin yüklenmediğini tespit ettim<br/> 
+Hatta birkaç kez 503  bad gateway hatasını almaktayım.<br/>
+Render.com dan free domain kullanmamdan kaynaklı sayfaları açılması, verilerin görüntülenmesi  normalden çok uzun sürmekte.<br/>
+Bu nedenle sayfaların gelmesini beklerseniz sevinirim. 
 Kolaylıklar diliyorum. 
 <br/>
 
