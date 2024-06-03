@@ -19,7 +19,7 @@ Uygulama Client ve Server olarak iki farklı kısım klasörde oluşturdum.  Her
 [Server klasörünün github repo linki] (https://github.com/kemalkasli/IspartaKGM2)<br/>
 [Client klasörünün github repo linki] (https://github.com/kemalkasli/IspartaKGM3)<br/>
 
-### Local de Çalışması <br/>
+### 5-) Local de Çalışması <br/>
 Ayrıca iki klasörün node_modules klasörleri dahil şekilde sıkıştırıp github repo boyutunu aştığı için drive a yükledim. )<br/>
 [Uygulamanın drive linki ](https://drive.google.com/drive/folders/1iEWgud2vp9ba-QpB4jMtH32ihJdgG4sB)<br/>
 A-) Terminal ekranından cd komutuyla client klasörüne içine girilir.<br/>
